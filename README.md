@@ -1,3 +1,4 @@
+![314F89CD-0B77-4DB7-8157-A5037EFFA651](https://github.com/user-attachments/assets/a4b5d50f-386c-4478-96ff-c460bb62b8da)
 # 🐾 CatNalyze
 
 Final project for the Building AI course
